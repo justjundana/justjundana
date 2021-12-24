@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm 
-    <a href="https://jundana.netlify.app">Jundana Al-Basyir</a>
+    <a href="https://jundana.dev">Jundana Al-Basyir</a>
   </h1>
   <h3>A Fullstack IOS & Web Developer</h3>
 </div>
